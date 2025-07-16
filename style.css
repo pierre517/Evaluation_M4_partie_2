@@ -7,28 +7,10 @@ header {
   );
 }
 
-nav {
-  color: whitesmoke;
-}
-
-nav a {
-  text-decoration: none;
-  color: whitesmoke;
-}
-
 nav button {
   border: 0;
   border-radius: 10px;
   background-color: whitesmoke;
-}
-
-footer {
-  height: 15%;
-}
-
-footer a {
-  text-decoration: none;
-  color: whitesmoke;
 }
 
 .bord {
@@ -38,4 +20,8 @@ footer a {
     rgb(74, 74, 252),
     rgb(64, 255, 207)
   );
+}
+
+footer {
+  height: 16%;
 }
